@@ -1,1 +1,1 @@
-https://github.com/abdelhadi-nofal/django-custom-user/pull/2
+https://github.com/abdelhadi-nofal/django-custom-user/pull/3
